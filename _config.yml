@@ -20,8 +20,8 @@
 
 title: Jingyuan Zhang (张靖远)
 name: Jingyuan Zhang (张靖远)
-position: Research Scientist
-email: dp9jalxhq@mozmail.com
+position: Research Assistant
+email: jzhang149@e.ntu.edu.sg
 description: >-
   I am a researcher in 3D computer vision and generative AI. I currently co-lead the development of spatial intelligence at [World Labs](https://www.worldlabs.ai/blog).
   I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://blog.google/products/shopping/search-on-2022-shopping/) for products on Google Search.
@@ -30,11 +30,11 @@ description: >-
   [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
   [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://ntu-zjy.com" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: KeunhongP
+github_username: ntu-zjy
+google_scholar: Ds5rUV8AAAAJ
+# google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima
