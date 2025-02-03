@@ -28,10 +28,6 @@ description: >-
   I received my M.Sc. in Artificial Intelligence from NTU and my B.E. in Cyberspace Security from Wuhan University. My research interests include federated domain adaptation, secure federated learning, and long-context retrieval-augmented generation. I have published papers in venues such as ICLR, TKDE, and ACL.
   Previously, I collaborated with the Alibaba-NTU Global e-Sustainability Lab (ANGEL) on exploring the knowledge boundaries of multimodal large language models.
 
-  我是人工智能与联邦学习领域的研究者，目前在南洋理工大学 (NTU)担任研究助理，专注于提升联邦学习的安全性与隐私保护，以及检索增强生成（RAG）技术的优化。
-  我在NTU获得人工智能硕士学位，并在武汉大学获得网络空间安全学士学位。我的研究兴趣涵盖联邦领域自适应、安全联邦学习以及长上下文检索增强生成，并在 ICLR、TKDE 和 ACL 等学术会议上发表论文。
-  此前，我曾与阿里巴巴-NTU 全球电子可持续实验室 (ANGEL) 合作，研究多模态大语言模型的知识边界问题。
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keunhong.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: KeunhongP
