@@ -17,13 +17,14 @@
 - id: mpft
   title: "Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning"
   venue: ICLR, 2025
-  description: "Introduces MPFT, a framework that fine-tunes a pre-trained model using multi-domain prototypes to address data heterogeneity in federated learning."
+  description: "MPFT is a novel Federated Domain Adaptation framework that fine-tunes a pre-trained model using multi-domain prototypes enriched with domain-specific local data to significantly improve in-domain and out-of-domain accuracy while converging in a single communication round, reducing computational and communication costs, and ensuring privacy through differential privacy and robustness against feature space hijacking attacks."
   project_page: https://openreview.net/forum?id=3wEGdrV5Cb
-  arxiv: 2501.12345
-  # image: mpft_overview.jpg
+  arxiv: 2410.07738
+  image: MPFT.png
   # image_mouseover: mpft_process.mp4
   authors:
-    - author1
-    - author2
-    - author3
-    - author4
+    - zhangjingyuan
+    - duanyiyang
+    - niushuaicheng
+    - caoyang
+    - limweiyangBryan
