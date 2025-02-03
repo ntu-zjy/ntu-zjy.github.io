@@ -14,18 +14,16 @@
 #     - rmbrualla
 #     - phenzler
 
-- id: illuminerf
-  title: "IllumiNeRF 3D Relighting without Inverse Rendering"
-  venue: NeurIPS, 2024
-  description: "3D relighting by distilling samples from a 2D image relighting diffusion model into a latent-variable NeRF."
-  project_page: https://illuminerf.github.io
-  arxiv: 2406.06527
-  image: illuminerf_before.jpg
-  image_mouseover: illuminerf_after.mp4
+- id: mpft
+  title: "Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning"
+  venue: ICLR, 2025
+  description: "Introduces MPFT, a framework that fine-tunes a pre-trained model using multi-domain prototypes to address data heterogeneity in federated learning."
+  project_page: https://openreview.net/forum?id=3wEGdrV5Cb
+  arxiv: 2501.12345
+  image: mpft_overview.jpg
+  image_mouseover: mpft_process.mp4
   authors:
-    - xiaomingzhao
-    - pratuls
-    - dorverbin
-    - keunhong
-    - rmbrualla
-    - phenzler
+    - author1
+    - author2
+    - author3
+    - author4
